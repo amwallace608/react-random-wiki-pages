@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-random-wiki-pages/static/css/main.5f0077e1.chunk.css",
+    "main.js": "/react-random-wiki-pages/static/js/main.b5551549.chunk.js",
+    "main.js.map": "/react-random-wiki-pages/static/js/main.b5551549.chunk.js.map",
+    "runtime-main.js": "/react-random-wiki-pages/static/js/runtime-main.b634991d.js",
+    "runtime-main.js.map": "/react-random-wiki-pages/static/js/runtime-main.b634991d.js.map",
+    "static/js/2.7f8b16d9.chunk.js": "/react-random-wiki-pages/static/js/2.7f8b16d9.chunk.js",
+    "static/js/2.7f8b16d9.chunk.js.map": "/react-random-wiki-pages/static/js/2.7f8b16d9.chunk.js.map",
+    "index.html": "/react-random-wiki-pages/index.html",
+    "precache-manifest.0ff8f4249017642c010e8d7ab23f75fc.js": "/react-random-wiki-pages/precache-manifest.0ff8f4249017642c010e8d7ab23f75fc.js",
+    "service-worker.js": "/react-random-wiki-pages/service-worker.js",
+    "static/css/main.5f0077e1.chunk.css.map": "/react-random-wiki-pages/static/css/main.5f0077e1.chunk.css.map",
+    "static/js/2.7f8b16d9.chunk.js.LICENSE.txt": "/react-random-wiki-pages/static/js/2.7f8b16d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b634991d.js",
+    "static/js/2.7f8b16d9.chunk.js",
+    "static/css/main.5f0077e1.chunk.css",
+    "static/js/main.b5551549.chunk.js"
+  ]
+}
